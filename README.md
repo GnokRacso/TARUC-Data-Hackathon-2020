@@ -12,3 +12,4 @@ Team Leader : Wong Yew Lee
 
 Team Member : Kong Mun Jun
 
+Achievement : First Place in Image Processing Category
